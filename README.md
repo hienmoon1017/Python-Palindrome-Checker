@@ -39,7 +39,7 @@ while True:
         print(f'"{user_input}" is not a palindrome.')
 ```
 ### Result:
-![image](https://github.com/user-attachments/assets/552d9f9a-854c-4b0b-b136-f53a4f82ac4a)
+![image](https://github.com/user-attachments/assets/4f86a362-af7d-439e-a5aa-31c7f61819c6)
 
 Please download my attached file for testing purpose
 
