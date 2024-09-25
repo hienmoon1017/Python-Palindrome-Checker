@@ -51,4 +51,4 @@ Wish you a day filled with happiness and energy!
 
 Warm regards,
 
-Hien Moon | [Visit My Blog](https://hienmoon.com/?utm_source=github&utm_medium=readme)
+Hien Moon
